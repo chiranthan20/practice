@@ -1,2 +1,2 @@
 #ignore below files
-file1.txt
+*.class
